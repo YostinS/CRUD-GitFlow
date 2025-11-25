@@ -1,0 +1,15 @@
+C:\Programacion Itla\Ferreteria_CRUD_GitFlow\Ferreteria_CRUD_GitFlow\Ferreteria_CRUD_GitFlow\bin\Debug\net8.0\Ferreteria_CRUD_GitFlow.exe
+C:\Programacion Itla\Ferreteria_CRUD_GitFlow\Ferreteria_CRUD_GitFlow\Ferreteria_CRUD_GitFlow\bin\Debug\net8.0\Ferreteria_CRUD_GitFlow.deps.json
+C:\Programacion Itla\Ferreteria_CRUD_GitFlow\Ferreteria_CRUD_GitFlow\Ferreteria_CRUD_GitFlow\bin\Debug\net8.0\Ferreteria_CRUD_GitFlow.runtimeconfig.json
+C:\Programacion Itla\Ferreteria_CRUD_GitFlow\Ferreteria_CRUD_GitFlow\Ferreteria_CRUD_GitFlow\bin\Debug\net8.0\Ferreteria_CRUD_GitFlow.dll
+C:\Programacion Itla\Ferreteria_CRUD_GitFlow\Ferreteria_CRUD_GitFlow\Ferreteria_CRUD_GitFlow\bin\Debug\net8.0\Ferreteria_CRUD_GitFlow.pdb
+C:\Programacion Itla\Ferreteria_CRUD_GitFlow\Ferreteria_CRUD_GitFlow\Ferreteria_CRUD_GitFlow\obj\Debug\net8.0\Ferreteria_CRUD_GitFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion Itla\Ferreteria_CRUD_GitFlow\Ferreteria_CRUD_GitFlow\Ferreteria_CRUD_GitFlow\obj\Debug\net8.0\Ferreteria_CRUD_GitFlow.AssemblyInfoInputs.cache
+C:\Programacion Itla\Ferreteria_CRUD_GitFlow\Ferreteria_CRUD_GitFlow\Ferreteria_CRUD_GitFlow\obj\Debug\net8.0\Ferreteria_CRUD_GitFlow.AssemblyInfo.cs
+C:\Programacion Itla\Ferreteria_CRUD_GitFlow\Ferreteria_CRUD_GitFlow\Ferreteria_CRUD_GitFlow\obj\Debug\net8.0\Ferreteria_CRUD_GitFlow.csproj.CoreCompileInputs.cache
+C:\Programacion Itla\Ferreteria_CRUD_GitFlow\Ferreteria_CRUD_GitFlow\Ferreteria_CRUD_GitFlow\obj\Debug\net8.0\Ferreteria_CRUD_GitFlow.sourcelink.json
+C:\Programacion Itla\Ferreteria_CRUD_GitFlow\Ferreteria_CRUD_GitFlow\Ferreteria_CRUD_GitFlow\obj\Debug\net8.0\Ferreteria_CRUD_GitFlow.dll
+C:\Programacion Itla\Ferreteria_CRUD_GitFlow\Ferreteria_CRUD_GitFlow\Ferreteria_CRUD_GitFlow\obj\Debug\net8.0\refint\Ferreteria_CRUD_GitFlow.dll
+C:\Programacion Itla\Ferreteria_CRUD_GitFlow\Ferreteria_CRUD_GitFlow\Ferreteria_CRUD_GitFlow\obj\Debug\net8.0\Ferreteria_CRUD_GitFlow.pdb
+C:\Programacion Itla\Ferreteria_CRUD_GitFlow\Ferreteria_CRUD_GitFlow\Ferreteria_CRUD_GitFlow\obj\Debug\net8.0\Ferreteria_CRUD_GitFlow.genruntimeconfig.cache
+C:\Programacion Itla\Ferreteria_CRUD_GitFlow\Ferreteria_CRUD_GitFlow\Ferreteria_CRUD_GitFlow\obj\Debug\net8.0\ref\Ferreteria_CRUD_GitFlow.dll
